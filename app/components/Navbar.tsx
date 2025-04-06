@@ -9,7 +9,7 @@ export default function Navbar() {
         {/* Left: Logo + Address */}
         <div className="flex items-center gap-3">
           <Image
-            src="https://www.financialexpress.com/wp-content/uploads/2023/02/Blinkit-allows-brands-to-provide-micro-shop-experience.jpg"
+            src="https://blinkit.com/"
             alt="Logo"
             width={40}
             height={40}
